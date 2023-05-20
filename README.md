@@ -1,3 +1,7 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/x3eit9kuhyajgwtj/branch/main?svg=true)](https://ci.appveyor.com/project/marinaustinovich/ra16-homeworks-events-state-filter/branch/main)
+
+deployment: https://marinaustinovich.github.io/ra16-homeworks-events-state-filter/
+
 Портфолио с фильтрами
 ===
 
