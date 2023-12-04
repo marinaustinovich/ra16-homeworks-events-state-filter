@@ -1,10 +1,6 @@
-import './App.css';
-import { Portfolio } from './components/Portfolio/Portfolio';
+import "./App.css";
+import { Portfolio } from "./components/Portfolio/Portfolio";
 
-function App() {
-  return (
-    <Portfolio />
-  );
-}
+const App = () => <Portfolio />;
 
 export default App;
